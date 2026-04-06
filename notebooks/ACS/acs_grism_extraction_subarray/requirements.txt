@@ -1,0 +1,5 @@
+jupyter
+jupyterlab
+matplotlib
+pyregion
+slitlessutils>=2.0
