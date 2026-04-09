@@ -4,4 +4,4 @@ jupyter
 jupyterlab==4.3.1
 matplotlib==3.9.4
 pyregion
-git+https://github.com/spacetelescope/slitlessutils.git
+slitlessutils>=2.0
